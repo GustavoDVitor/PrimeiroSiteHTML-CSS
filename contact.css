@@ -3,10 +3,19 @@ body{
     color: white;
     background-color:rgb(2, 28, 33);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+h2{
     text-align: center;
 }
 div{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+footer img {
+
+    width: 30px;
+    height: 30px; ;
     text-align: left;
 }
